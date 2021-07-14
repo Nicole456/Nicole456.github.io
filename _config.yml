@@ -7,7 +7,7 @@
 
 # Site settings
 title: ZhangYuHui's Blog
-brief-intro: 人要先感到幸福才能看到玫瑰
+brief-intro: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://FengHZ.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: Love is a touch but not yet a touch.
+description_footer:
 
 # comments
 # two ways to comment, only choose one, and use your own short name
