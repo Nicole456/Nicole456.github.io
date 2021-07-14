@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: FengHZ's Blog
-brief-intro: Summer is for falling in love.
+title: ZhangYuHui's Blog
+brief-intro: 人要先感到幸福才能看到玫瑰
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://FengHZ.github.io" # the base hostname & protocol for your site
 
@@ -16,10 +16,10 @@ permalink: /:title/
 # other links
 twitter_username: 
 facebook_username: 
-github_username: FengHZ
-email: fenghaozhe1996@gmail.com
+github_username: 
+email:
 weibo_username: 
-zhihu_username: 小透明
+zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
