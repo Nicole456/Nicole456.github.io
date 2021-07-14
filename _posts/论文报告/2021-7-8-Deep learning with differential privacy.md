@@ -92,7 +92,7 @@ mathjax: true
 
 小化损失函数$ \mathcal{L} $。
 
-![image-20210712111646376](images/Deep learning with differential privacy/01.jpg)
+![image-20210712111646376](../../images\Deep learning with differential privacy\01.jpg)
 
 在每次迭代过程中：
 
