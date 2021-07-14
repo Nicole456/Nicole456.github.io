@@ -3,7 +3,7 @@ layout: post
 title: Deep learning with differential privacy
 date: 2021-07-08 15:53:43
 categories: 论文报告
-tags: Deep-Learning, Privacy, Differential Privacy
+tags: Deep-Learning  Privacy  Differential-Privacy
 mathjax: true
 ---
 
@@ -16,6 +16,14 @@ mathjax: true
 ## Abstract
 
 在本论文中，提出将最先进的机器学习方法与先进的隐私保护机制相结合的策略，可以在适度的隐私预算下，并在软件复杂性、训练效率和模型质量方面以可接受的成本，来训练具有非凸目标的深度神经网络。
+
+
+
+
+
+
+
+
 
 ## Introduction
 
