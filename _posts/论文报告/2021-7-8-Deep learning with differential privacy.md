@@ -3,10 +3,9 @@ layout: post
 title: Deep learning with differential privacy
 date: 2021-07-08 15:53:43
 categories: 论文报告
-tags: Deep-Learning,Privacy,Differential Privacy
+tags: Deep-Learning, Privacy, Differential Privacy
 mathjax: true
 ---
-# Deep learning with differential privacy
 
 | 论文名称     | Deep learning with differential privacy           |
 | ------------ | ------------------------------------------------- |
