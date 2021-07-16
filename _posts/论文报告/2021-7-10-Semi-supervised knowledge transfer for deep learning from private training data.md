@@ -49,7 +49,7 @@ mathjax: true
 
 基于教师集成的隐私学习
 
-![image-20210712152517842](笔记.assets/image-20210712152517842.png)
+![image-20210712152517842](G:\python projects\Nicole456.github.io\images\Semi-supervised knowledge transfer for deep learning from private training data\01.jpg)
 
 方法概述：（1)教师集合训练在敏感数据的不相交子集上训练(2）学生模型使用集合标记的公共数据上训练。
 
